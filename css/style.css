@@ -1,0 +1,88 @@
+.container {
+    width: 900px;
+    margin: auto;
+    background-color: white;
+}
+
+body {
+    background-color: gray;
+    background-image: url(../img/congruent_pentagon.png);
+}
+
+.header {
+    padding: 20px;
+    padding-bottom: 10px;
+}
+
+.header .judul {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 0px;
+}
+
+.header a {
+    text-decoration: none;
+    color: salmon;
+    padding: 5px;
+    padding-bottom: 10px;
+}
+
+.header a:hover {
+    background-color: salmon;
+    color: white;
+}
+
+.hero {
+    border-top: 5px solid salmon;
+    border-bottom: 5px solid lightskyblue;
+    height: 350px;
+    /* background position punya 2 value, pertama untuk vertical kedua untuk horisontal */
+    background-position: 0 -150px;
+    /* background-size cover digunkana untuk ngepasin image nya biar mengcover containernya */
+    background-size: cover;
+    background-image: url('../img/wateredited.jpg');
+}
+
+.content {
+    padding: 20px;
+}
+
+.content h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.content .penulis {
+    font-size: 11px;
+}
+
+.content .penulis a {
+    text-decoration: none;
+    color: salmon;
+}
+
+.content .penulis a:hover {
+    background-color: salmon;
+    color: white;
+}
+
+.content p {
+    margin-bottom: 20px;
+    line-height: 1.5;
+    font-size: 14px;
+}
+
+.footer {
+    padding: 10px;
+    background-color: #333;
+}
+
+.footer .copy {
+    text-align: center;
+    color: #eaeaea;
+}
