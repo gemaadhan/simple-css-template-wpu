@@ -1,6 +1,7 @@
 .container {
+    position: relative;
     width: 960px;
-    margin: auto;
+    margin: 80px auto;
     background-color: white;
 }
 
@@ -112,4 +113,27 @@ body {
 .footer .copy {
     text-align: center;
     color: #eaeaea;
+}
+
+.container a.ribbon {
+    position: absolute;
+    right: -30px;
+    top: -24px;
+    background-size: cover;
+    display: inline-block;
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 220px;
+    background-image: url("../img/twitter.png");
+}
+
+.topbar {
+    border-bottom: 5px solid lightskyblue;
+    z-index: 1;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 50px;
+    background-color: salmon;
 }
