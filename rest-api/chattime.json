@@ -1,0 +1,97 @@
+[{
+        "category": "Milk Tea",
+        "name": "Chatime Milk Tea",
+        "price": {
+            "R": 22,
+            "L": 25
+        }
+    },
+    {
+        "category": "Milk Tea",
+        "name": "Chatime Roasted Milk Tea",
+        "price": {
+            "R": 23,
+            "L": 25
+        }
+    },
+    {
+        "category": "Milk Tea",
+        "name": "Jasmine Green Milk Tea",
+        "price": {
+            "R": 23,
+            "L": 27
+        }
+    },
+    {
+        "category": "Milk Tea",
+        "name": "Vanilla Milk Tea",
+        "price": {
+            "R": 23,
+            "L": 29
+        }
+    },
+    {
+        "category": "Tea Presso",
+        "name": "Chatime Roasted Tea",
+        "price": {
+            "R": 23,
+            "L": 29
+        }
+    },
+    {
+        "category": "Tea Presso",
+        "name": "Black Tea",
+        "price": {
+            "R": 19,
+            "L": 22
+        }
+    },
+    {
+        "category": "Tea Presso",
+        "name": "Jasmine Green Tea",
+        "price": {
+            "R": 19,
+            "L": 22
+        }
+    },
+    {
+        "category": "Tea Presso",
+        "name": "Green Tea Latte",
+        "price": {
+            "R": 24,
+            "L": 27
+        }
+    },
+    {
+        "category": "Mood Refresh",
+        "name": "Taiwan Mango Juice",
+        "price": {
+            "R": 22,
+            "L": 25
+        }
+    },
+    {
+        "category": "Mood Refersh",
+        "name": "Honey Lemon Tea",
+        "price": {
+            "R": 23,
+            "L": 26
+        }
+    },
+    {
+        "category": "Mood Refersh",
+        "name": "Pure Cocoa",
+        "price": {
+            "R": 25,
+            "L": 28
+        }
+    },
+    {
+        "category": "Mood Refersh",
+        "name": "Matcha Mouse",
+        "price": {
+            "R": 26,
+            "L": 30
+        }
+    }
+]

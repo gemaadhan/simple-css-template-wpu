@@ -1,0 +1,27 @@
+[{
+    "nama": "gema",
+    "umur": 26,
+    "nrp": "2112011213004",
+    "lulus": true,
+    "hobby": [
+        "memancing",
+        "bercocok tanam"
+    ],
+    "pembimbing": {
+        "pembimbing1": "agung budi",
+        "pembimbing2": "eko didik widi"
+    }
+}, {
+    "nama": "gema",
+    "umur": 26,
+    "nrp": "2112011213004",
+    "lulus": true,
+    "hobby": [
+        "memancing",
+        "bercocok tanam"
+    ],
+    "pembimbing": {
+        "pembimbing1": "agung budi",
+        "pembimbing2": "eko didik widi"
+    }
+}]
